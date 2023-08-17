@@ -3,7 +3,7 @@ title:  Twenty Opensource CRM
 description:  Twenty Opensource CRM
 slug: Opensource Solution
 date: 2023-08-17 00:00:00+0000
-image: cover.jpg
+image: cover.png
 categories:
     - selfhost
     - crm
