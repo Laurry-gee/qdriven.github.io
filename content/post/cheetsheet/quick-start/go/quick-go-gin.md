@@ -10,7 +10,7 @@ categories:
 nav: 简明教程
 keywords:
 - Gin教程
-image: post/quick-go-gin/gin.jpg
+image: post/cheat-sheet/quick-start/go/quick-go-gin/gin.jpg
 ---
 
 ![Gin](quick-go-gin/gin.jpg)

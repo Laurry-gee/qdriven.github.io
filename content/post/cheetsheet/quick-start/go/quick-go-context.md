@@ -14,7 +14,7 @@ keywords:
 - 信道
 - 超时退出
 - golang
-image: post/quick-go-context/context_sm.jpg
+image: post/cheat-sheet/quick-start/go/quick-go-context/context_sm.jpg
 ---
 
 ## 1 为什么需要 Context

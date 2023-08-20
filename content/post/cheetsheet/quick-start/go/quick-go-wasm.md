@@ -12,7 +12,7 @@ keywords:
 - Go WebAssembly
 - wasm
 - gopherjs
-image: post/quick-go-wasm/go-wasm.jpg
+image: post/cheat-sheet/quick-start/go/quick-go-wasm/go-wasm.jpg
 github: https://github.com/geektutu/7days-golang
 ---
 

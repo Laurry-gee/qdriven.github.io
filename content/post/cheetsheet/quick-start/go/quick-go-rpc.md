@@ -14,7 +14,7 @@ keywords:
 - RPC
 - 证书
 - 鉴权
-image: post/quick-go-rpc/go-rpc.jpg
+image: post/cheat-sheet/quick-start/go/quick-go-rpc/go-rpc.jpg
 ---
 
 本文介绍了 Go 语言远程过程调用(Remote Procedure Call, RPC)的使用方式，示例基于 Golang 标准库 net/rpc，同时介绍了如何基于 TLS/SSL 实现服务器端和客户端的单向鉴权、双向鉴权。

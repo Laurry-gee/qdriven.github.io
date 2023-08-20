@@ -12,7 +12,7 @@ keywords:
 - golang test
 - unit tests
 - golang testing
-image: post/quick-go-test/go_test.jpg
+image: post/cheat-sheet/quick-start/go/quick-go-test/go_test.jpg
 ---
 
 ![golang test](quick-go-test/go_test.jpg)

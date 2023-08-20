@@ -13,7 +13,7 @@ keywords:
 - memory mapping
 - windows
 - golang
-image: post/quick-go-mmap/mmap_sm.jpg
+image: post/cheat-sheet/quick-start/go/quick-go-mmap/mmap_sm.jpg
 ---
 
 ![golang mmap](quick-go-mmap/mmap.jpg)

@@ -13,7 +13,7 @@ keywords:
 - Protobuf
 - Golang
 - RPC
-image: post/quick-go-protobuf/protocol-buffers.jpg
+image: post/cheat-sheet/quick-start/go/quick-go-protobuf/protocol-buffers.jpg
 ---
 
 ![Golang Protocol Buffers](quick-go-protobuf/go-protobuf.jpg)
