@@ -4,3 +4,6 @@ repos:
 
 commands:
   - yt-dlp
+
+awesomes:
+  - https://github.com/georgezouq/awesome-ai-in-finance.git
