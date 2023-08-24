@@ -1,17 +1,16 @@
 ---
 title: Build your own X
-seo_title: Build your own X
+slug: Build your own X
 date: 2023-08-24 23:51:24
 description: Build your own X
 tags:
-- awesome
-- tutorials
+  - awesome
+  - tutorials
 categories:
-- awesome
-- tutorials
+  - awesome
+  - tutorials
 image: cover.png
 ---
-
 ## Table of Contents: Build your own X
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 

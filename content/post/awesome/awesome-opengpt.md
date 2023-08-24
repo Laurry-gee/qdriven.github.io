@@ -1,18 +1,16 @@
 ---
 title: awesome-open-gpt
-seo_title: awesome-open-gpt
+slug: awesome-open-gpt
 date: 2023-08-24 23:51:24
 description: awesome-open-gpt
 tags:
-- awesome
-- ai-tools
+  - awesome
+  - ai-tools
 categories:
-- awesome
-- ai-tools
+  - awesome
+  - ai-tools
 ---
-
 <h2 align="center">awesome-open-gpt/gpt相关开源项目合集</h2>
-
 
 - **awesome-open-gpt**是关于GPT开源精选项目的合集（170+全网最全） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
 - awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。

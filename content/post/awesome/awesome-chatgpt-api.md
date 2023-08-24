@@ -4,13 +4,12 @@ seo_title: Awesome ChatGPT API
 date: 2023-08-24 23:51:24
 description: Awesome ChatGPT API
 tags:
-- awesome
-- ai-tools
+    - awesome
+    - ai-tools
 categories:
-- awesome
-- ai-tools
+    - awesome
+    - ai-tools
 ---
-
 # Awesome ChatGPT API
 
 精心策划的应用程序和工具列表，不仅使用新的 [ChatGPT API](https://platform.openai.com/docs/api-reference/chat), 还允许用户自行配置 [API keys](https://platform.openai.com/account/api-keys), 允许免费和按需使用自己的配额。

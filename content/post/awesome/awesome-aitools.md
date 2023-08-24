@@ -1,14 +1,14 @@
 ---
-title: awesome ai tools
-seo_title: awesome ai tools
+title: awesome ai tools-2
+seo_title: awesome ai tools-2
 date: 2023-08-20 23:51:24
-description: awesome ai tools
+description: awesome ai tools-2
 tags:
-- awesome
-- ai-tools
+  - awesome
+  - ai-tools
 categories:
-- awesome
-- ai-tools
+  - awesome
+  - ai-tools
 ---
 
 English | [中文](README-CN.md)
