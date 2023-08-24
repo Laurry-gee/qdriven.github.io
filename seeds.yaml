@@ -11,6 +11,8 @@ testing-blog:
   - https://softwaretestingnotes.com/topic/automation/
 awesomes:
   - https://github.com/georgezouq/awesome-ai-in-finance.git
-  -  https://github.com/reorx/awesome-chatgpt-api.git
+  - https://github.com/reorx/awesome-chatgpt-api.git
   - https://github.com/EwingYangs/awesome-open-gpt.git
-  
+
+ai:
+  - https://github.com/jerryjliu/llama_index.git
